@@ -16,7 +16,7 @@ Link to challenge instructions: https://github.com/makersacademy/course/tree/mas
 
 * 29/05/19 - Lin and Helen
 
-* 30/05/19 - 
+* 30/05/19 - Lin and Adrian
 
 -------------------------
 #### Wireframe
