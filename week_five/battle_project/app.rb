@@ -17,14 +17,5 @@ get '/contact' do
 end
 
 get '/cat' do
-  "<div>
-  <img src='http://bit.ly/1eze8aE' style='border: 2px dashed red'>
-  </div>
-  "
+  erb(:index)
 end
-
-#  get '/cat' do
-#    "<a href='http://bit.ly/1eze8aE'>cat</a>
-#   <p style='color:red;'>This is red</p>"
-# end
-
