@@ -10,7 +10,7 @@ Link to challenge instructions: https://github.com/makersacademy/course/tree/mas
 
 --------------------------
 
-### Authors:
+#### Authors
 
 * 28/05/19 - Lin and Manisha
 
@@ -19,12 +19,12 @@ Link to challenge instructions: https://github.com/makersacademy/course/tree/mas
 * 30/05/19 - 
 
 -------------------------
-### Wireframe
+#### Wireframe
 
 ![image](https://github.com/makersacademy/course/blob/master/intro_to_the_web/images/battle_final_mockup.png?raw=true)
 
 ------------------------
-### Challenges
+#### Challenges
 
 - The Web
 - HTTP
