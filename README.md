@@ -12,6 +12,8 @@ Link to challenge instructions: https://github.com/makersacademy/course/tree/mas
 
 Authors:
 
-28/05/19 - Lin and Manisha
-29/05/19 - Lin and Helen
-30/05/19 - 
+* 28/05/19 - Lin and Manisha
+
+* 29/05/19 - Lin and Helen
+
+* 30/05/19 - 
