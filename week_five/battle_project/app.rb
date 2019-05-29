@@ -16,13 +16,12 @@ get '/contact' do
   "Contact Us"
 end
 
-get '/random-cat' do
-  @name = ["Amigo", "Oscar", "Viking"].sample
+post '/named-cat' do
+  p params
+  @name = params[:name]
   erb(:index)
 end
 
-get '/named-cat' do
-  p params[:name]
-  @name = params[:name]
-  erb(:index)
+get '/cat-form' do
+  erb(:cat_form)
 end
