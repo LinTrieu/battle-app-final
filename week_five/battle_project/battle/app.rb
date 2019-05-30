@@ -1,11 +1,16 @@
 require 'sinatra/base'
 
-class Battle < Sinatra::Base
+  class Battle < Sinatra::Base
 
-get "/" do
-  "Testing infrastructure working!" 
-end
+    get "/" do
+      erb(:index)
+    end
 
-run! if app_file == $0
+    post "/names" do
+      @player_one_name = params[:player_one]
+      @player_two_name = params[:player_two]
+      erb(:play)
+    end
 
-end
+    run! if app_file == $0
+  end
