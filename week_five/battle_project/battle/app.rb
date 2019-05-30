@@ -14,15 +14,14 @@ class Battle < Sinatra::Base
     redirect '/play'
   end
 
-
-
   get "/play" do
-    # "player_one = " << session[:player_one].inspect
-    # "player_two = " << session[:player_two].inspect
-
     @player_one_name = session[:player_one]
     @player_two_name = session[:player_two]
     erb(:play)
+  end
+
+  get "/hit-points" do
+    erb(:points)
   end
 
   run! if app_file == $0
