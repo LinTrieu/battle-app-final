@@ -2,7 +2,7 @@ require 'capybara/rspec'
 require 'spec_helper'
 require './app'
 
-feature 'testing homepge' do
+feature 'testing homepage' do
 
   scenario 'users input names into forms and submit to display names' do
     visit("/")
