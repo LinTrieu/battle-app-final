@@ -23,6 +23,21 @@ Link to challenge instructions: https://github.com/makersacademy/course/tree/mas
 
 ![image](https://github.com/makersacademy/course/blob/master/intro_to_the_web/images/battle_final_mockup.png?raw=true)
 
+
+------------------------
+#### User stories
+
+```bash
+As two Players,
+So we can play a personalised game of Battle,
+We want to Start a fight by entering our names and seeing them
+```
+```bash
+As Player 1,
+So I can see how close I am to winning
+I want to see Player 2's Hit Points
+```
+
 ------------------------
 #### Challenges
 
