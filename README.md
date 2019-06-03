@@ -42,11 +42,14 @@ Link to challenge instructions: https://github.com/makersacademy/course/tree/mas
 - Sinatra: posted params
 - Sinatra: using the Chrome Devtools
 - Testing with Capybara
-- Getting Started with Battle [CURRENT STAGE @ 29 MAY EOD]
+- Getting Started with Battle [STAGE @ 29-MAY EOD]
 - Getting test infrastructure set up
 - Entering Players
 - POST/redirect/GET pattern
-- Viewing hit points
+- Viewing hit points [STAGE @ 30-MAY EOD]
+
+#### Outstanding Exercises, as of 30-May-2019
+
 - Test helpers
 - Attacking Player 2
 - Extracting logic to the model
