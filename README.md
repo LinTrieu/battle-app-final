@@ -23,6 +23,21 @@ Link to challenge instructions: https://github.com/makersacademy/course/tree/mas
 
 ![image](https://github.com/makersacademy/course/blob/master/intro_to_the_web/images/battle_final_mockup.png?raw=true)
 
+
+------------------------
+#### User stories
+
+```bash
+As two Players,
+So we can play a personalised game of Battle,
+We want to Start a fight by entering our names and seeing them
+```
+```bash
+As Player 1,
+So I can see how close I am to winning
+I want to see Player 2's Hit Points
+```
+
 ------------------------
 #### Challenges
 
@@ -42,11 +57,14 @@ Link to challenge instructions: https://github.com/makersacademy/course/tree/mas
 - Sinatra: posted params
 - Sinatra: using the Chrome Devtools
 - Testing with Capybara
-- Getting Started with Battle [CURRENT STAGE @ 29 MAY EOD]
+- Getting Started with Battle [STAGE @ 29-MAY EOD]
 - Getting test infrastructure set up
 - Entering Players
 - POST/redirect/GET pattern
-- Viewing hit points
+- Viewing hit points [STAGE @ 30-MAY EOD]
+
+#### Outstanding Exercises, as of 30-May-2019
+
 - Test helpers
 - Attacking Player 2
 - Extracting logic to the model
