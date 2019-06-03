@@ -2,7 +2,7 @@ require 'capybara/rspec'
 require 'spec_helper'
 require './app'
 
-feature 'testing homepage' do
+feature 'Enter player names into Battle App' do
 
   scenario 'users input names into forms and submit to display names' do
     sign_in_and_play
