@@ -78,9 +78,9 @@ I want my attack to reduce Player 2's HP by 10
 - Viewing hit points [STAGE @ 30-MAY EOD]
 - Test helpers
 - Attacking Player 2
+- Extracting logic to the model
 
 #### Outstanding Exercises, as of 03-June
-- Extracting logic to the model
 - Implementing hit points
 - Single Responsibility Principle, anyone?
 - Skinny controllers
